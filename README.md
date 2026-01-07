@@ -285,7 +285,9 @@ poetry publish
 
 ## 👤 Autor
 
-[Seu Nome] - [seu-email@example.com]
+**Caio Aguiar**
+
+🔗 [LinkedIn](https://www.linkedin.com/in/caioaguiar23)
 
 ## 🙏 Agradecimentos
 
